@@ -28,6 +28,9 @@ Fungsi main adalah titik masuk program. Ini mengatur alur utama program, termasu
 
 <img width="215" alt="main" src="https://github.com/user-attachments/assets/e4f04e11-00b8-4612-81f8-fda497cf09b1" />
 
+Link Youtube : 
+https://youtu.be/o6KNL8Z6aZk?si=pRQZqiPhPtEVJhF1
+
 
 
 
